@@ -1,0 +1,130 @@
+body{
+    margin:0 auto;
+}
+.inside{
+    display:block;
+    font-family: Calibri,sans-serif,georgia,"Times New Roman" ;
+    padding: 0 10px 10px 0;
+}
+.intro{
+    display:inline-block;
+    width:45%;
+    float:left;
+    padding:30px;
+    margin:0 auto;
+}
+.inside2{
+    display:block;
+    font-family: Calibri;
+   
+}
+h1{
+    font-family:Avenir;
+    color:#ffffff;
+    font-variant: small-caps;
+    text-align: center;
+    background: #278f75;
+    padding:10px;
+    margin:0 auto;
+    height:100px;
+    line-height: 72px;
+    border-bottom:solid 3px rgb(5, 73, 58);
+}
+tr{
+    text-align: center;
+    
+    background-color: rgba(168, 218, 168,0.5);
+    color: #074226;
+}
+h3{
+    font-family:Raleway;
+    font-variant: small-caps;
+    color: firebrick;
+}
+ol,ul{
+    color: #0e095c;
+    font-family: Calibri;
+    font-size: 15px;
+}
+li{
+    padding:3px;
+}
+td{
+    width:300px;
+    padding:5px;
+    border-radius: 7px;
+}
+th{
+    background-color: rgb(6, 92, 6);
+    color: #ffffff;
+    text-align: center;
+    font-family: Avenir;
+    font-variant: small-caps;
+    padding:10px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+caption{
+    font-size: 20px;
+    background-color: black;
+    color:#ffffff;
+    padding:5px;
+    border-radius: 5px;
+}
+form{
+  margin:0 auto;
+  background:#e0e0e070;
+  width:75%;
+  height:50%;
+  text-align: center;
+  border:solid 5px #b3b3b3;
+}
+label{
+padding:20px;
+text-align: left;
+}
+input{
+    border:none;
+    border-radius: 10px;
+    background-color:#ffffff;
+    padding:10px;
+    color: rgb(6, 6, 58);
+    margin:0 auto;
+    margin-top:20px;
+    width:50%;
+    align-items:right ;
+}
+textarea{
+    border:none;
+    font-family: Calibri;
+    background-color:#ffffff;
+    width:50%;
+    border-radius: 10px;
+    margin-top:10px;
+    padding:10px;
+}
+a{
+    text-decoration: none;
+    color: darkgreen;
+    padding:0 5px 0 5px;
+}
+#submit{
+    background-color: darkred;
+    color:#ffffff;
+    text-align: center;
+    margin:10px 0 10px 0;
+}
+#Wikipedia{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 30px;
+    color: firebrick;
+}
+#form{
+    color:firebrick;
+    font-family: Avenir;
+    font-size: 30px;
+    font-variant: small-caps;
+    text-align: center;
+}
